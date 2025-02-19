@@ -1,6 +1,6 @@
-package Latihan1;
+package Pertemuan2;
 
-public class NodeMainModif {
+public class NodeMain_a {
 	  public static void main(String[] args) {
 		  
 
